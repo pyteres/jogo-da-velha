@@ -119,7 +119,7 @@ border-right: none;
 }
 
 .winning-mesager{
-display: flex;
+display: display;
 position: fixed;
 top: 0;
 bottom: 0;
